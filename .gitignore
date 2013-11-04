@@ -10,3 +10,7 @@ pom.xml
 *.tar.gz
 checkouts
 target
+.lein-repl-history
+*.iml
+*.ipr
+*.iws
